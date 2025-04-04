@@ -43,7 +43,8 @@ Full list includes **audio, video, document, and network steganography** tools. 
 ### **🏛️ Classical Ciphers**  
 - **CyberChef** – Swiss Army knife for encoding/ciphers.  
 - **dCode** – Auto-solve common ciphers.  
-- **quipqiup** – Frequency-based decryption for substitution ciphers.  
+- **quipqiup** – Frequency-based decryption for substitution ciphers.
+- [**Ciphey**](https://github.com/bee-san/Ciphey)
 
 ### **🧂 Hash Cracking**  
 - **hashcat** – GPU-accelerated cracking tool.  
